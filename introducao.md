@@ -6,3 +6,4 @@ Nunc elit massa, sagittis et quam non, hendrerit vehicula dui. Maecenas sodales 
 
 Ao longo do livro você pode esperar entrevistas com Rafael França e DHH.
 
+No capítulo 09 você encontra um comparativo focado em testes de Ruby com outras linguagens.
